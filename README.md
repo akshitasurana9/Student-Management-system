@@ -1,8 +1,5 @@
 # Student-Management-system
-
-👇
-
-📌 Project Title: Student Information System (SIS)
+ 
 🎯 Objective
 
 This project is designed to manage student records using file handling in C.
@@ -116,4 +113,3 @@ Add marks & result system
 🧾 Conclusion
 
 This project demonstrates a complete CRUD system (Create, Read, Update, Delete) using C programming and file handling.
-It is a strong mini-project for exams, viva, and practicals.
